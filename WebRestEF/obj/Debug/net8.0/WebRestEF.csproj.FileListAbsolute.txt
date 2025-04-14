@@ -1,0 +1,14 @@
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\bin\Debug\net8.0\WebRestEF.deps.json
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\bin\Debug\net8.0\WebRestEF.runtimeconfig.json
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\bin\Debug\net8.0\WebRestEF.dll
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\bin\Debug\net8.0\WebRestEF.pdb
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.dll
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\refint\WebRestEF.dll
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.pdb
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\ref\WebRestEF.dll
