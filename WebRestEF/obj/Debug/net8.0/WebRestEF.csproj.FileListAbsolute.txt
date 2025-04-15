@@ -12,3 +12,4 @@ C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\refint\WebRestEF
 C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.pdb
 C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.genruntimeconfig.cache
 C:\Users\ASUS\Downloads\webrest-main\WebRestEF\obj\Debug\net8.0\ref\WebRestEF.dll
+C:\Users\ASUS\Downloads\WebRest-main\WebRestEF\obj\Debug\net8.0\WebRestEF.sourcelink.json

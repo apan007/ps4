@@ -55,3 +55,4 @@ C:\Users\ASUS\Downloads\webrest-main\WebRestAPI\obj\Debug\net8.0\refint\WebRestA
 C:\Users\ASUS\Downloads\webrest-main\WebRestAPI\obj\Debug\net8.0\WebRestAPI.pdb
 C:\Users\ASUS\Downloads\webrest-main\WebRestAPI\obj\Debug\net8.0\WebRestAPI.genruntimeconfig.cache
 C:\Users\ASUS\Downloads\webrest-main\WebRestAPI\obj\Debug\net8.0\ref\WebRestAPI.dll
+C:\Users\ASUS\Downloads\WebRest-main\webrestapi\obj\Debug\net8.0\WebRestAPI.sourcelink.json

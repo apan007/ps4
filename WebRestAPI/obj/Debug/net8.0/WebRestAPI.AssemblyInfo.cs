@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebRestAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+005397ccb9fd23bef8ccf172766f4fc3bcb15dbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebRestAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebRestAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
